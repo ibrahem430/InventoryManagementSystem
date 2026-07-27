@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\net10.0\InventoryManagementSystem.Infrastructure.deps.json
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\net10.0\InventoryManagementSystem.Infrastructure.dll
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\net10.0\InventoryManagementSystem.Infrastructure.pdb
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\net10.0\InventoryManagementSystem.Application.dll
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\net10.0\InventoryManagementSystem.Domain.dll
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\net10.0\InventoryManagementSystem.Domain.pdb
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\bin\Debug\net10.0\InventoryManagementSystem.Application.pdb
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\InventoryManagementSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\InventoryManagementSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\InventoryManagementSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\InventoryManagementSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\InventoryManagementSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\Inventor.5123D6AF.Up2Date
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\InventoryManagementSystem.Infrastructure.dll
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\refint\InventoryManagementSystem.Infrastructure.dll
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\InventoryManagementSystem.Infrastructure.pdb
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Infrastructure\obj\Debug\net10.0\ref\InventoryManagementSystem.Infrastructure.dll

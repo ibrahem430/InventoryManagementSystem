@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "InventoryManagementSystem.Api/1.0.0": {
+        "dependencies": {
+          "InventoryManagementSystem.Application": "1.0.0",
+          "InventoryManagementSystem.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagementSystem.Api.dll": {}
+        }
+      },
+      "InventoryManagementSystem.Application/1.0.0": {
+        "dependencies": {
+          "InventoryManagementSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagementSystem.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InventoryManagementSystem.Domain/1.0.0": {
+        "runtime": {
+          "InventoryManagementSystem.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "InventoryManagementSystem.Infrastructure/1.0.0": {
+        "dependencies": {
+          "InventoryManagementSystem.Application": "1.0.0",
+          "InventoryManagementSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagementSystem.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InventoryManagementSystem.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagementSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagementSystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

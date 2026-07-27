@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\bin\Debug\net10.0\InventoryManagementSystem.Domain.deps.json
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\bin\Debug\net10.0\InventoryManagementSystem.Domain.dll
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\bin\Debug\net10.0\InventoryManagementSystem.Domain.pdb
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\obj\Debug\net10.0\InventoryManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\obj\Debug\net10.0\InventoryManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\obj\Debug\net10.0\InventoryManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\obj\Debug\net10.0\InventoryManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\obj\Debug\net10.0\InventoryManagementSystem.Domain.dll
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\obj\Debug\net10.0\refint\InventoryManagementSystem.Domain.dll
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\obj\Debug\net10.0\InventoryManagementSystem.Domain.pdb
+C:\Users\User\Desktop\Inventory Management System\InventoryManagementSystem\InventoryManagementSystem.Domain\obj\Debug\net10.0\ref\InventoryManagementSystem.Domain.dll
