@@ -9,7 +9,6 @@ A backend RESTful API built with ASP.NET Core using Clean Architecture.
 - Clean Architecture
 - JWT Authentication (planned)
 - Docker (planned)
-- Azure Deployment (planned)
 
 ## Project Status
 🚧 Under Development
